@@ -25,3 +25,14 @@
   <a href="https://github.com/pinohans">pinohans</a></div>
 
 <br>
+
+
+## Table of Contents
+
+- **[0x01 - Applications](#0x01---applications)**
+
+### 0x01 - Applications
+
+<p>
+&nbsp;&nbsp; <a href="https://openai.com/sora"><b>Openai Sora</b></a> - is an AI model that can create realistic and imaginative scenes from text instructions.<br>
+</p>
