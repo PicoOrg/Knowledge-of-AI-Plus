@@ -35,4 +35,5 @@
 
 <p>
 &nbsp;&nbsp; <a href="https://openai.com/sora"><b>Openai Sora</b></a> - is an AI model that can create realistic and imaginative scenes from text instructions.<br>
+&nbsp;&nbsp; <a href="https://github.com/Kong/kong"><b>Kong</b></a> - is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.<br>
 </p>
