@@ -30,10 +30,25 @@
 ## Table of Contents
 
 - **[0x01 - Applications](#0x01---applications)**
+- **[0x02 - Manuals](#0x02---manuals)**
 
 ### 0x01 - Applications
 
 <p>
 &nbsp;&nbsp; <a href="https://openai.com/sora"><b>Openai Sora</b></a> - is an AI model that can create realistic and imaginative scenes from text instructions.<br>
 &nbsp;&nbsp; <a href="https://github.com/Kong/kong"><b>Kong</b></a> - is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.<br>
+</p>
+
+#### Agent
+
+<p>
+&nbsp;&nbsp; <a href="https://lmstudio.ai/"><b>LM Studio</b></a> - is a desktop app for discovering, downloading, and running LLMs locally on your computer. With LM Studio, you can run LLMs on your laptop, entirely offline, use models through the in-app Chat UI or an OpenAI compatible local server, download any compatible model files from HuggingFace repositories and discover new & noteworthy LLMs in the app's home page.<br>
+&nbsp;&nbsp; <a href="https://github.com/Significant-Gravitas/AutoGPT"><b>AutoGPT</b></a> - is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.<br>
+</p>
+
+
+### 0x02 - Manuals
+
+<p>
+&nbsp;&nbsp; <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><b>AI Expert Roadmap</b></a> - is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy.<br>
 </p>
