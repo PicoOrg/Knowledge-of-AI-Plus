@@ -39,11 +39,19 @@
 &nbsp;&nbsp; <a href="https://github.com/Kong/kong"><b>Kong</b></a> - is a cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.<br>
 </p>
 
+#### Platform
+
+<p>
+&nbsp;&nbsp; <a href="https://huggingface.co/"><b>Hugging Face</b></a> - is a platform where the machine learning community collaborates on models, datasets, and applications.<br>
+</p>
+
 #### Agent
 
 <p>
 &nbsp;&nbsp; <a href="https://lmstudio.ai/"><b>LM Studio</b></a> - is a desktop app for discovering, downloading, and running LLMs locally on your computer. With LM Studio, you can run LLMs on your laptop, entirely offline, use models through the in-app Chat UI or an OpenAI compatible local server, download any compatible model files from HuggingFace repositories and discover new & noteworthy LLMs in the app's home page.<br>
 &nbsp;&nbsp; <a href="https://github.com/Significant-Gravitas/AutoGPT"><b>AutoGPT</b></a> - is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.<br>
+&nbsp;&nbsp; <a href="https://github.com/lencx/ChatGPT"><b>ChatGPT</b></a> - is an unofficial project solely intended for personal learning and research. ChatGPT Desktop Application (Mac, Windows and Linux)<br>
+&nbsp;&nbsp; <a href="https://github.com/lencx/Noi"><b>Noi</b></a> - is a successor to the ChatGPT desktop application concept.<br>  
 </p>
 
 
